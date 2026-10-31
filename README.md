@@ -5,8 +5,8 @@ Guanacaste (ACG), Costa Rica. The study tests whether leaf heat tolerance
 (Tcrit, T50, T95) and turgor loss point track the limits of species' realized
 climatic niches, and how exposed each species is to future climate.
 
-> Hulshof, C. M., Hardley, S., López Bustamante, P., Ortiz-Colín, P., Terry, C. N.,
-> & Guadamúz, A. *Leaf thermal and hydraulic tolerances track the climatic limits
+> Hulshof, C. M., Hardley, S., Ortiz-Colín, P., Terry, C. N., Guadamúz, A., &
+> López Bustamante, P. *Leaf thermal and hydraulic tolerances track the climatic limits
 > of tropical tree niches, but range size sets local exposure.* In preparation for
 > *Functional Ecology*.
 
@@ -69,8 +69,12 @@ Missing values are `NA`. The file is UTF-8 CSV.
 
 ## Citation and licence
 
-Please cite the GBIF derived dataset (DOI to be added on registration) and the
-paper. Each record keeps the licence of its source dataset (CC0, CC BY or CC
+Please cite the GBIF derived dataset and the paper:
+
+> GBIF.org (2026). Specimen occurrences of six Neotropical tree species used to
+> estimate realized climatic niches (Área de Conservación Guanacaste
+> climate-tolerance study) [Derived dataset]. https://doi.org/10.15468/dd.6hbz5u
+ Each record keeps the licence of its source dataset (CC0, CC BY or CC
 BY-NC). See each `gbif_dataset_key` on GBIF. No additional licence is applied
 to these records here.
 
